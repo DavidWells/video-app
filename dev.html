@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>video</title>
+</head>
+
+<body style="-webkit-app-region: drag">
+  <div id="main"></div>
+  <script src="http://localhost:8000/out/app.js"></script>
+  <script type="text/javascript">
+  navigator.webkitGetUserMedia({
+      video: true
+    },
+    function(stream) {
+      document.getElementById('camera').src = URL.createObjectURL(stream);
+    },
+    function() {
+      alert('could not connect to webcam');
+    }
+  );
+  </script>
+</body>
+
+</html>
