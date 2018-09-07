@@ -4,7 +4,7 @@
 
 This electron app boots up your webcam and places it in an always on top window.
 
-I use this for video tutorials to place my mug in them.
+I use this for video tutorials and to check my hair·do before jumping on calls.
 
 # Technologies used
 
