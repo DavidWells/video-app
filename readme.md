@@ -12,6 +12,11 @@ I use this for video tutorials to place my mug in them.
 - react
 - webpack
 
+# Use cases
+
+- Screencasting
+- Personal high tech mirror
+
 ## Dev
 
 ```sh
