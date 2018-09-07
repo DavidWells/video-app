@@ -1,6 +1,6 @@
 # Video Electron App
 
-<img align="right" width="411" height="241" src="https://user-images.githubusercontent.com/532272/45231507-06d5cb80-b281-11e8-8beb-9c2d38ad2672.jpg">
+<img align="right" width="430" height="238" src="https://user-images.githubusercontent.com/532272/45231507-06d5cb80-b281-11e8-8beb-9c2d38ad2672.jpg">
 
 This electron app boots up your webcam and places it in an always on top window.
 
