@@ -14,7 +14,7 @@ I use this for video tutorials to place my mug in them.
 
 # Use cases
 
-- Screencasting
+- Screencasting & Remote presenting
 - Personal high tech mirror
 
 ## Dev
